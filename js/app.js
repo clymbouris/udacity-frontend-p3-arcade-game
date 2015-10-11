@@ -58,13 +58,11 @@ var Game = function(){
 */
 Game.prototype.start = function(){
     this.player = new Player();
-    this.enemies = [
-        new Enemy(-game.tileWidth, game.tileHeight),
-        new Enemy(-game.tileWidth, game.tileHeight * 2),
-        new Enemy(-game.tileWidth, game.tileHeight * 3),
-        new Enemy(-game.tileWidth, game.tileHeight * 4)
-    ];
+    this.enemies = [];
     this.gem = new Gem();
+    for (var i = 0, enemies = 4; i < enemies; i++) {
+        this.enemies.push(new Enemy(-game.tileWidth, game.tileHeight * (i + 1)));
+    }
 };
 /**
 * @description Checks if game is in-progress
