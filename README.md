@@ -1,7 +1,7 @@
 FEND Project 3 - Arcade GAME Clone
 ===============================
 
-Game link: http://d3moid.github.io/arcade/
+Game link: http://d3moid.github.io/frontend-arcade-game-clone/
 
 Simply click on the link above to start playing!
 
