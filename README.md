@@ -5,7 +5,7 @@ Part of the Front-End Web Developer nanodegree from Udacity. The project utilize
 I was provided with visual assets and a game loop engine; using these tools I added a number of entities to the game including the player characters and enemies to recreate a challenging clone of the classic arcade game Frogger.
 
 ##Usage
-Simply visit http://d3moid.github.io/frontend-arcade-game-clone/ to start playing!
+Simply visit http://d3moid.github.io/udacity-frontend-p3-arcade-game/ to start playing!
 
 ##Instructions
 ###Game Play
