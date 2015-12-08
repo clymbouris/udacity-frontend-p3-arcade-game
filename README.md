@@ -25,3 +25,6 @@ Simply visit http://d3moid.github.io/udacity-frontend-p3-arcade-game/ to start p
 
 ####After game is over:
 - Pressing **Spacebar** will restart the game.
+
+##Preview
+![Arcade Game Clone](http://snag.gy/ob3ip.jpg)
